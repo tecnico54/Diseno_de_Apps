@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.portada{
+	margin: 75px;
+	padding: 45px;
+	text-align: center;
+	font-size: 35px;
+}
+.portada > p > b{
+	font-size: 50px;
+}
+.titulo{
+	
+	padding: 150px 0 0 45px;
+	font-size: 50px;
+	color: #46e;
+	text-align: center;
+}
+.separacion{
+	display: flex;
+	justify-content: center;
+	padding: 15px;
+}
+.division{
+	border: 2px #48e outset;
+}
