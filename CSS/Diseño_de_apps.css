@@ -26,3 +26,9 @@
 .division{
 	border: 2px #48e outset;
 }
+.Boton{
+	margin: 5px 0 15px 0;
+	width: 705px;
+	height: 35px;
+	cursor: pointer;
+}
